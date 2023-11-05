@@ -2,6 +2,7 @@
 
 ![image](https://github.com/ROCeey/FTSE-Stock-Price-Prediction/assets/67713745/72733da0-c7f4-4675-8c75-98635f2c4125)
 
+[View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmU4M2I1YjgtZDJmZS00MjUxLTlhNTEtZjQzZDJiN2U3MWZiIiwidCI6IjIzNzkwYzEwLWRiNmQtNDM1ZC05MjFkLWI4NTQ0YjcxODY1YSJ9)
 # Project Rationale
 Aside from the potential for financial benefits and wealth building, the stock market presents hurdles and barriers to investors. Stock prices’ intrinsic volatility and unpredictability, impacted by a variety of factors such as economic conditions, geopolitical events, industry trends, and investor opinion, produce uncertainty and a perception of high risk (Sari et al., 2022). The complexity of stock markets and the availability of information might overwhelm potential investors, resulting in a lack of perceived understanding and the fear of making erroneous decisions and incurring financial losses.
 
