@@ -29,4 +29,5 @@ The project focused on predicting FTSE 100 stock market closing prices from hist
 # Significance of project
 The relevance of this project rests in its ability to address significant issues and provide valuable insights in the field of stock market investment. The project attempts to simplify complex financial information and empower investors to make informed investment decisions by leveraging business intelligence (BI) technologies and tools. The creation of a user-friendly interface and data visualization dashboard can increase data comprehension and make stock market information more accessible to a wider audience.
 
-# Future projectIncorporate real-time analytics to inform decision makers on-the-go.
+# Future project
+Incorporate real-time analytics to inform decision makers on-the-go.
